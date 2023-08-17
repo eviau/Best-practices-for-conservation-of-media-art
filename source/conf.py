@@ -6,7 +6,7 @@
 # -- Project information -----------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#project-information
 
-project = "Conservation, arts, medias"
+project = "Arts & medias"
 copyright = '2023, Rafael Lozano-Hemmer'
 author = 'Rafael Lozano-Hemmer'
 release = '0.9.1'
