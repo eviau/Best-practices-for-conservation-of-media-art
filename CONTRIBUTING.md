@@ -26,10 +26,10 @@ sphinx-intl update -p build/gettext -l es -l fr -l de
 Create or update a .md file from the translated .po file:
 
 ```
-sphinx-build -b html -D language=en source public/
-sphinx-build -b html -D language=es source public/es
-sphinx-build -b html -D language=fr source public/fr
-sphinx-build -b html -D language=de source public/de
+sphinx-build -b html -D language=en source docs/
+sphinx-build -b html -D language=es source docs/es
+sphinx-build -b html -D language=fr source docs/fr
+sphinx-build -b html -D language=de source docs/de
 ```
 
 ### Update the .po file
