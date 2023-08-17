@@ -1,0 +1,72 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2023, Rafael Lozano-Hemmer
+# This file is distributed under the same license as the Arts & medias
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2023.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Arts & medias \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-08-17 02:06-0400\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: fr\n"
+"Language-Team: fr <LL@li.org>\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.12.1\n"
+
+#: ../../source/index.md:1
+msgid "Best practices for conservation of media art from an artist's perspective"
+msgstr ""
+
+#: ../../source/index.md:3
+msgid "[RAFAEL LOZANO-HEMMER](http://lozano-hemmer.com) · SEPTEMBER 28, 2015"
+msgstr ""
+
+#: ../../source/index.md:5
+msgid ""
+"![](https://www.lozano-"
+"hemmer.com/image_sets/33_questions_per_minute/monterrey_2019/33_questions_per_minute_monterrey_2019_my_505A7543.jpg)"
+msgstr ""
+
+#: ../../source/index.md:7
+msgid "Available in..."
+msgstr ""
+
+#: ../../source/index.md:9
+msgid "Original version"
+msgstr ""
+
+#: ../../source/index.md:11
+msgid ""
+"[English](https://eviau.github.io/Best-practices-for-conservation-of-"
+"media-art/readme.html)"
+msgstr ""
+
+#: ../../source/index.md:13
+msgid "Translations"
+msgstr ""
+
+#: ../../source/index.md:15
+msgid ""
+"[Deutsch](https://eviau.github.io/Best-practices-for-conservation-of-"
+"media-art/de/readme.html)"
+msgstr ""
+
+#: ../../source/index.md:16
+msgid ""
+"[Español](https://eviau.github.io/Best-practices-for-conservation-of-"
+"media-art/es/readme.html)"
+msgstr ""
+
+#: ../../source/index.md:17
+msgid ""
+"[Français](https://eviau.github.io/Best-practices-for-conservation-of-"
+"media-art/fr/readme.html)"
+msgstr ""
+
