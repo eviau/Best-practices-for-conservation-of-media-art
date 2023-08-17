@@ -1,1 +1,4 @@
 .venv/*
+*.mo
+*.bat
+build/*
