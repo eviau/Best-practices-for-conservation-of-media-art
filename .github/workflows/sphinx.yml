@@ -14,5 +14,9 @@ jobs:
       pages: write
       id-token: write
     steps:
+    - id: install Sphinx
+      run: |
+         pip install -r requirements.txt
+      shell: bash
     - id: deployment
       uses: sphinx-notes/pages@v3
