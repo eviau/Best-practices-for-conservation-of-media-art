@@ -1,8 +1,11 @@
+[Deutsch](./readme-de.html) - [Español](./readme-es.html) - [Français](./readme-fr.html)
+
+-----------------------------------------------
+
 # Best practices for conservation of media art from an artist’s perspective
 [RAFAEL LOZANO-HEMMER](http://lozano-hemmer.com) · SEPTEMBER 28, 2015
 
 ![](https://www.lozano-hemmer.com/image_sets/33_questions_per_minute/monterrey_2019/33_questions_per_minute_monterrey_2019_my_505A7543.jpg)
-
 
 Dear colleague,
 
